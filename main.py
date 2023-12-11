@@ -1,0 +1,1 @@
+numero = int(input("Cual es el numero para dividir"))
